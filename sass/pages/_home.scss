@@ -1,0 +1,18 @@
+.home-page {
+    background: white;
+    color: $dark-grey;
+    #header {
+        float: left;
+        ul {
+            float: left;
+            li {
+                font-size: 20px;
+                color: #000;
+                ul li {
+                    font-size: 16px;
+                    color: #ff0;
+                }
+            }
+        }
+    }
+}

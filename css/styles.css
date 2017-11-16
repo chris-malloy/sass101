@@ -1,0 +1,15 @@
+.home-page {
+  background: white;
+  color: #333; }
+  .home-page #header {
+    float: left; }
+    .home-page #header ul {
+      float: left; }
+      .home-page #header ul li {
+        font-size: 20px;
+        color: #000; }
+        .home-page #header ul li ul li {
+          font-size: 16px;
+          color: #ff0; }
+
+/*# sourceMappingURL=styles.css.map */
